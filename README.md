@@ -1,2 +1,0 @@
-# phisingMail-simulator
-test
