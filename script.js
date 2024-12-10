@@ -1,6 +1,6 @@
 const emails = [
-    { src: "email1.jpg", answer: "scam" },
-    { src: "email2.jpg", answer: "legit" },
+    { src: "assets/email1.jpg", answer: "scam" }, //By Isochrone, Wikimedia Foundation, Philip Metschan - Own work, Wikipedia-puzzleglobe-V2 back.png, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151608495
+    { src: "assets/email2.png", answer: "legit" },
     { src: "email3.jpg", answer: "scam" },
     { src: "email4.jpg", answer: "legit" },
     { src: "email5.jpg", answer: "scam" }
