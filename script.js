@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <h1>Quiz Complete!</h1>
                 <p>Your Score: ${score}/${emails.length}</p>
                 <p>Tips: Always check the sender's address, grammar mistakes, and unexpected links.</p>
-                <a href = "https://www.oesterreich.gv.at/themen/onlinesicherheit_internet_und_neue_medien/internet_und_handy___sicher_durch_die_digitale_welt/3/2/2/Seite.1720520.html">More info here (Official ressources)</p>
+                <a href="https://www.oesterreich.gv.at/themen/onlinesicherheit_internet_und_neue_medien/internet_und_handy___sicher_durch_die_digitale_welt/3/2/2/Seite.1720520.html">More info here (Official ressources)</p>
             `;
         }
     }
